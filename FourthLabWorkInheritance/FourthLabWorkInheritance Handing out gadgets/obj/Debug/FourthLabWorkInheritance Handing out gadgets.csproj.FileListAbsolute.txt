@@ -1,0 +1,10 @@
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\bin\Debug\FourthLabWorkInheritance Handing out gadgets.exe.config
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\bin\Debug\FourthLabWorkInheritance Handing out gadgets.exe
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\bin\Debug\FourthLabWorkInheritance Handing out gadgets.pdb
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance Handing out gadgets.csprojAssemblyReference.cache
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance_Handing_out_gadgets.Form1.resources
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance_Handing_out_gadgets.Properties.Resources.resources
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance Handing out gadgets.csproj.GenerateResource.cache
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance Handing out gadgets.csproj.CoreCompileInputs.cache
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance Handing out gadgets.exe
+C:\Users\Csar\source\repos\FourthLabWorkInheritance Handing out gadgets\FourthLabWorkInheritance Handing out gadgets\obj\Debug\FourthLabWorkInheritance Handing out gadgets.pdb
