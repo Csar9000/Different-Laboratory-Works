@@ -1,0 +1,6 @@
+C:\Users\Csar\source\repos\Informatica.Obrabotka komandnoy stroki\Informatica.Obrabotka komandnoy stroki\bin\Debug\Informatica.Obrabotka komandnoy stroki.exe.config
+C:\Users\Csar\source\repos\Informatica.Obrabotka komandnoy stroki\Informatica.Obrabotka komandnoy stroki\bin\Debug\Informatica.Obrabotka komandnoy stroki.exe
+C:\Users\Csar\source\repos\Informatica.Obrabotka komandnoy stroki\Informatica.Obrabotka komandnoy stroki\bin\Debug\Informatica.Obrabotka komandnoy stroki.pdb
+C:\Users\Csar\source\repos\Informatica.Obrabotka komandnoy stroki\Informatica.Obrabotka komandnoy stroki\obj\Debug\Informatica.Obrabotka komandnoy stroki.csprojAssemblyReference.cache
+C:\Users\Csar\source\repos\Informatica.Obrabotka komandnoy stroki\Informatica.Obrabotka komandnoy stroki\obj\Debug\Informatica.Obrabotka komandnoy stroki.exe
+C:\Users\Csar\source\repos\Informatica.Obrabotka komandnoy stroki\Informatica.Obrabotka komandnoy stroki\obj\Debug\Informatica.Obrabotka komandnoy stroki.pdb
