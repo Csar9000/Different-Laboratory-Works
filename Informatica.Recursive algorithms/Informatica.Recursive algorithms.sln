@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Informatica.Recursive algorithms", "Informatica.Recursive algorithms.\Informatica.Recursive algorithms.csproj", "{1F7E9202-E8DE-48C5-806A-3E322018B1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7E9202-E8DE-48C5-806A-3E322018B1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7E9202-E8DE-48C5-806A-3E322018B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7E9202-E8DE-48C5-806A-3E322018B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7E9202-E8DE-48C5-806A-3E322018B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1933A1-28EB-41BF-8B60-CEE6878176D1}
+	EndGlobalSection
+EndGlobal

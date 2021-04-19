@@ -1,0 +1,6 @@
+C:\Users\Csar\source\repos\Informatica.Recursive algorithms\Informatica.Recursive algorithms\obj\Debug\Informatica.Recursive algorithms.csprojAssemblyReference.cache
+C:\Users\Csar\source\repos\Informatica.Recursive algorithms\Informatica.Recursive algorithms\bin\Debug\Informatica.Recursive algorithms.exe.config
+C:\Users\Csar\source\repos\Informatica.Recursive algorithms\Informatica.Recursive algorithms\bin\Debug\Informatica.Recursive algorithms.exe
+C:\Users\Csar\source\repos\Informatica.Recursive algorithms\Informatica.Recursive algorithms\bin\Debug\Informatica.Recursive algorithms.pdb
+C:\Users\Csar\source\repos\Informatica.Recursive algorithms\Informatica.Recursive algorithms\obj\Debug\Informatica.Recursive algorithms.exe
+C:\Users\Csar\source\repos\Informatica.Recursive algorithms\Informatica.Recursive algorithms\obj\Debug\Informatica.Recursive algorithms.pdb
